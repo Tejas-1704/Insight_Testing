@@ -1,8 +1,9 @@
 {
-  "solution": {
+  "solution": [
     "Limits and Collateral",
     "Branch",
     "Micro Services",
     "Treasury",
     "Investor Management"
-  }}
+  ]
+}
