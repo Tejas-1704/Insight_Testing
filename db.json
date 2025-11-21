@@ -5,4 +5,11 @@
     "Micro Services",
     "Treasury",
     "Investor Management"
+  ],
+ "module": [
+    "FC Common CORE",
+    "FC Origination",
+    "FC Safe Deposit Box",
+    "Oracle Banking Trade Finance",
+    "FC Electronic Messaging Service"
   ]}
