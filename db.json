@@ -1,15 +1,20 @@
 {
-  "solution": [
-    "Limits and Collateral",
-    "Branch",
-    "Micro Services",
-    "Treasury",
-    "Investor Management"
+    "customer": [
+    {
+      "code": "Code 1",
+      "name": "Customer 1"
+    },
+    {
+      "code": "Code 2",
+      "name": "Customer 2"
+    },
+    {
+      "code": "Code 3",
+      "name": "Customer 3"
+    }
   ],
- "module": [
-    "FC Common CORE",
-    "FC Origination",
-    "FC Safe Deposit Box",
-    "Oracle Banking Trade Finance",
-    "FC Electronic Messaging Service"
-  ]}
+  "region": [
+    "Region 1",
+    "Region 2"
+  ]
+}
