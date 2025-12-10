@@ -1,5 +1,9 @@
 {
-    "customer": [
+  "region": [
+    "Region 1",
+    "Region 2"
+  ],
+        "customer": [
     {
       "code": "Code 1",
       "name": "Customer 1"
@@ -12,9 +16,5 @@
       "code": "Code 3",
       "name": "Customer 3"
     }
-  ],
-  "region": [
-    "Region 1",
-    "Region 2"
   ]
 }
